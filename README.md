@@ -1,4 +1,5 @@
 # hello-world
 tutorial
-do con ga
-oi con ga con
+con ga con
+oi con ga con 
+
